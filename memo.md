@@ -2,7 +2,7 @@ Para: Valeria Rocha
 De: Equipo de Datos (YaLlegó Delivery)
 Asunto: Qué atacar primero con los datos de 2025
 
-Recomiendo enfocar la operación en recortar los tiempos de entrega largos, sobre todo en Quillacollo y Sacaba y en días de lluvia y revisar de inmediato las cancelaciones y tiempos de Burger Kanata Express (R017) y Don Illimani Café (R001).
+Recomiendo enfocar la operación en recortar los tiempos de entrega largos, sobre todo en zonas de Quillacollo y Sacaba; en días de lluvia y revisar de inmediato las cancelaciones y tiempos de Burger Kanata Express (R017) y Don Illimani Café (R001).
 
 1. La mayor carga se da al mediodía (12–13 h) y cerca de las 20:00 (máximo de 57 pedidos/hora con 47 riders activos), concentrada en Centro (14,04%), Cala Cala (10,83%) y Queru Queru (10,01%), mientras el peso mayor en tiempo está en Quillacollo (39,9 min) y Sacaba (38,3 min).
 2. En los 81 días con lluvia suben los pedidos diarios (240,27 vs. 196,73) y el GMV (Bs 13.098,38 vs. Bs 11.068,62), pero el tiempo sube a 31,69 min y la calificación cae a 3,845 (p < 0,0001).
